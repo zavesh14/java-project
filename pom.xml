@@ -6,7 +6,7 @@
   <groupId>com.zavesh</groupId>
   <artifactId>java-project</artifactId>
   <version>1.0-SNAPSHOT</version>   
-  <packaging>jar</packaging>
+  <packaging>jar</packaging> 
  
   <name>java-project</name>
   <url>http://maven.apache.org</url> 
